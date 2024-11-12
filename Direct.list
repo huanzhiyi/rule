@@ -83,6 +83,8 @@ DOMAIN-SUFFIX,qhstatic.com
 DOMAIN-SUFFIX,qhupdate.com
 DOMAIN-SUFFIX,so.com
 
+#CF
+DOMAIN-SUFFIX,db.dot6.ggff.net
 
 # 58
 DOMAIN-SUFFIX,58.com
