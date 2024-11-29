@@ -72,8 +72,7 @@ payload:
  - DOMAIN, api.9cec79d.com
 #播放
  - DOMAIN, wjm.kemfsj.com
-#4k-av播放
- - DOMAIN, www.4k-av.com
+
 #囧动漫主页
  - IP-CIDR,, 43.142.232.217/32
 #播放
@@ -516,3 +515,13 @@ DOMAIN-SUFFIX,wmpvp.com
 
 # 极客
 DOMAIN-SUFFIX,jike.info
+
+# 影视
+DOMAIN-SUFFIX,cfkj86.com
+DOMAIN-SUFFIX,blbtgg.com
+DOMAIN-SUFFIX,m3u8.pw
+DOMAIN-SUFFIX,yzzy.tv
+DOMAIN-SUFFIX,yyzyplay.com
+DOMAIN-SUFFIX,80yy3.com
+DOMAIN-SUFFIX,hmrvideo.com
+DOMAIN-SUFFIX,4k-av.com
