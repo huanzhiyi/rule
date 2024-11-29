@@ -457,22 +457,10 @@ payload:
  - DOMAIN, naixxzy.com
 #播放
  - DOMAIN, nxxplayurl.com
-#精品主页
- - DOMAIN, jinpinxm.com
- - DOMAIN-KEYWORD, jingpinx.com
-#播放
- - DOMAIN, 05hao.top
-#草榴主页
- - DOMAIN, www.caoliuzyw.com
- - DOMAIN-SUFFIX, comodoca.com
- - DOMAIN-SUFFIX, usertrust.com
- - DOMAIN-SUFFIX, sectigo.com
- - DOMAIN-SUFFIX, caoliuzywimg.com
 #播放
  - DOMAIN, player.cl9987.com
-#老色逼主页
- - DOMAIN, apilsbzy1.com
-#杂七杂八的网站封面
+ 
+ #杂七杂八的网站封面
  - DOMAIN, img.kuaichezy.net
  - DOMAIN, puui.qpic.cn
  - DOMAIN-SUFFIX, jisuimage.com
@@ -522,4 +510,9 @@ payload:
  - DOMAIN, suboimage.com
  - DOMAIN, img.ffzy888.com
  - DOMAIN,git.886.be
+ 
+#完美
+DOMAIN-SUFFIX,wmpvp.com
 
+# 极客
+DOMAIN-SUFFIX,jike.info
