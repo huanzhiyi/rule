@@ -18,9 +18,11 @@ payload:
  - DOMAIN-SUFFIX, voicehub.top
 #夸克
  - DOMAIN-SUFFIX, quark.cn
-#天翼
+#天翼及电信APP
  - DOMAIN-SUFFIX, 189.cn
  - DOMAIN-SUFFIX, ctyunxs.cn
+ - DOMAIN-SUFFIX, easytomessage.com
+ - DOMAIN-SUFFIX, sis.jpush.io
 #115
  - DOMAIN-SUFFIX, 115.com
 #uc
