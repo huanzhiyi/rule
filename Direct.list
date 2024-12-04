@@ -256,8 +256,7 @@ IP-CIDR,163.123.192.29/32,no-resolve
 IP-CIDR,205.178.182.52/32,no-resolve
 IP-CIDR,163.123.192.17/32,no-resolve
 DOMAIN-SUFFIX,c.xpgtv.net
-#厂长主页
-DOMAIN-SUFFIX,www.czzyvideo.com
+
 #播放
 DOMAIN-SUFFIX,qimgs.qunarzz.com
 DOMAIN-SUFFIX,lf16-fe.resso.me
