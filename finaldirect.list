@@ -4,7 +4,6 @@
 DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-SUFFIX,itv.video
 DOMAIN-SUFFIX,czzyvideo.com
-DOMAIN-REGEX,^[a-z0-9]{12}\.com$
 
 # 公共 NTP 服务
 DOMAIN-SUFFIX,ntp.org
