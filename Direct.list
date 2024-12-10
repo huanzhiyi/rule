@@ -62,6 +62,9 @@ DOMAIN-KEYWORD,zts.com
 #虎牙主页与播放
 DOMAIN-KEYWORD,huya
 
+#运营商查询
+DOMAIN-SUFFIX,22tool.com
+
 # 影视
 DOMAIN-SUFFIX,cfkj86.com
 DOMAIN-SUFFIX,blbtgg.com
