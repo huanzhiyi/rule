@@ -63,6 +63,10 @@ DOMAIN-KEYWORD,zts.com
 #虎牙主页与播放
 DOMAIN-KEYWORD,huya
 
+#快手
+DOMAIN-SUFFIX,kuaishouzt.com
+DOMAIN,kuaishou.httpdns.pro
+
 #运营商查询
 DOMAIN-SUFFIX,22tool.com
 
