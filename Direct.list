@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 DOMAIN-SUFFIX,vvz.us.kg
 DOMAIN-SUFFIX,alns.us.kg
 DOMAIN-SUFFIX,getui.com
+DOMAIN-SUFFIX,getui.net
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mirror
