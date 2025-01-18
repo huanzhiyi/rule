@@ -4,6 +4,8 @@
 DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-SUFFIX,itv.video
 DOMAIN-SUFFIX,czzyvideo.com
+DOMAIN-SUFFIX,090227.xyz
+DOMAIN-SUFFIX,ggff.net
 
 # 公共 NTP 服务
 DOMAIN-SUFFIX,ntp.org
